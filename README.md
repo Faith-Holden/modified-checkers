@@ -1,6 +1,6 @@
 # modified-checkers
 
-My solution for Chapter  Exercise  of “Introduction to Programming Using Java”.
+My solution for Chapter 11 Exercise 6 of “Introduction to Programming Using Java”.
 Implementation notes: This is an edited version of Checkers.java, a class provided
 by the textbook's author. I added save and load functionality, including methods, variables,
 and listeners.
